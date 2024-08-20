@@ -5,6 +5,7 @@
 ### Patch Changes
 
 - :bug: Fix theus/instantgram#102
+- :globe_with_meridians: Added Spanish language to Instantgram website (thanks [@xOrieus](https://github.com/xOrieus)! https://github.com/theus/instantgram/pull/99)
 
 ## 5.1.0
 
